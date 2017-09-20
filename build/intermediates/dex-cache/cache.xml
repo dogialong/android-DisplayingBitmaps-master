@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\longdg\.android\build-cache\916f164fb5da375caa552e99ab84565f5688e76b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="C:\Users\longdg\Downloads\android-DisplayingBitmaps-master (1)\android-DisplayingBitmaps-master\Application\build\intermediates\pre-dexed\debug\classes_a828107a0f006ae366984608d4e0a511187cdae7.jar" />
+    </item>
+
+</items>
